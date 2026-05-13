@@ -8,6 +8,7 @@ The workflow includes data preprocessing, exploratory data analysis (EDA), featu
 Additionally, the trained model is saved using joblib (.pkl file) and integrated into a simple Streamlit web application for real-time predictions based on user input.
 
 🚀 Key Features:
+
 Data cleaning and preprocessing
 Exploratory Data Analysis (EDA) with visualizations
 Logistic Regression model implementation
@@ -16,11 +17,12 @@ Model deployment using Streamlit
 Saved model file for reuse (.pkl)
 
 🛠 Tech Stack:
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
-Streamlit
+
+Python,
+Pandas, NumPy,
+Scikit-learn,
+Matplotlib, Seaborn,
+Streamlit.
 
 📌 Objective:
 
