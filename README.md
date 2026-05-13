@@ -9,12 +9,12 @@ Additionally, the trained model is saved using joblib (.pkl file) and integrated
 
 🚀 Key Features:
 
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA) with visualizations
-Logistic Regression model implementation
-Model evaluation using performance metrics
-Model deployment using Streamlit
-Saved model file for reuse (.pkl)
+Data cleaning and preprocessing, 
+Exploratory Data Analysis (EDA) with visualizations, 
+Logistic Regression model implementation, 
+Model evaluation using performance metrics, 
+Model deployment using Streamlit, 
+Saved model file for reuse (.pkl) .
 
 🛠 Tech Stack:
 
